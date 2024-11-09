@@ -1,4 +1,7 @@
-# FindThisGoogle Chrome Extension
+<h1 align="left">
+  <img src="icon48.png" alt="FindThisGoogle Logo" width="48" height="48">
+  FindThisGoogle Chrome Extension
+</h1>
 
 A simple Chrome extension that adds a context menu option to search for selected text in Google with exact match (quoted search). The search opens in a new background tab.
 
